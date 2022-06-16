@@ -1,0 +1,171 @@
+.corps{
+width: 1000px;
+margin: auto;
+font-family: Century Gothic, sans-serif;
+font-size: 10px;
+}
+
+body{
+border: 4px solid black;
+    width : 890px;
+    margin-left : 100px;
+    margin-right: 110px;
+    margin-bottom : 283px;    
+}
+
+.1erelettre::first-letter{
+font-size: 500px;
+}
+
+p{
+font-size : 12px;
+}
+
+.agauche{
+float: left;
+padding : 10px;
+width : 150px;
+height : 300px;
+margin left : 70px; 
+border: 1px solid black;
+border left : 1px black;
+background-color: #C2C2C2;
+}
+
+
+.titreagauche{
+float: left;
+padding : 5px; 
+width : 120px;
+height : 50px;
+border : 1px solid black;
+text-align : center;
+margin top : 60px;
+background-color: #F0F0F0;
+}
+
+.texteagauche{
+float: left;
+width : 120px;
+height : 30px;
+text-align : center;
+background-color: #C2C2C2;
+}
+
+.milieu{
+float: left;
+width : 500px;
+height:350px;
+padding : 9px;
+margin-left: 10px;
+border: 1px solid black;
+background-color : #C2C2C2 ;
+}
+
+
+
+
+.premieremoitiemilieu{
+
+padding : 10px;
+width : 450px;
+height:100px;
+padding : 9px;
+margin-left: 10px;
+    margin-top : 10px;
+border: 1px solid black;
+text-align : center;
+background-color : #D1CFCF ;
+}
+
+.titremilieu{
+
+width : 400px;
+padding : 1px;
+margin-left: 20px;
+margin-top : 10px; 
+border: 1px solid black;
+text-align : center;
+background-color : #F0F0F0 ;
+}
+
+.titreaumilieu{
+text-align : right; 
+font-style: italic;
+}
+
+.textedumilieu{
+  border-left : 3px solid black;
+  border-right : 3px solid black;
+}
+
+.deuxiememoitiemilieu{
+float: left;
+padding : 10px;
+width : 450px;
+height:150px;
+padding : 9px;
+margin-left: 10px;
+    margin-top : 20px;
+border: 1px solid black;
+text-align : center;
+background-color : #D1CFCF;
+}
+
+
+.adroite{
+float: left;
+padding : 10px;
+width : 157px;
+height : 200px;
+margin-left : 10px; 
+border: 1px solid black;
+background-color: #D4D4D4;
+}
+
+.titreadroite{
+float: left;
+padding : 5px; 
+width : 120px;
+height : 50px;
+border : 1px solid black;
+text-align : center;
+margin top : 60px;
+background-color: #F0F0F0;
+}
+
+.texteadroite{
+float: left;
+width : 120px;
+height : 30px;
+text-align : center;
+background-color: #D4D4D4;
+}
+
+
+.titreenbas{
+
+
+font-style: italic;
+padding : 1px;
+margin-left: 20px;
+margin-top : 10px; 
+border: 1px solid black;
+text-align : center;
+background-color : #F0F0F0 ;
+}
+
+.texteenbas{
+float: left;
+width : 870px;
+height:100px;
+padding : 9px;
+margin-top : 80px;
+border: 1px solid black;
+    text-align : center;
+background-color : #C2C2C2 ;
+}
+
+
+
+
